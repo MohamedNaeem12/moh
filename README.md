@@ -1,108 +1,70 @@
 <!-- Header Image -->
-
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" alt="Welcome"/>
 
 <!-- Social Links -->
-
 <p>
-  <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25" /></a>
-  <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" height="25" /></a>
+  <a href="https://www.linkedin.com/in/mohamed-naeem-8ab906214"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25" /></a>
+  <a href="https://github.com/MohamedNaeem12"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" height="25" /></a>
+  <a href="https://t.me/spxd007"><img src="https://img.shields.io/badge/Telegram-%232AABEE.svg?&style=for-the-badge&logo=telegram&logoColor=white" height="25" /></a>
 </p>
 
 ---
 
 ## 👋 Hi, I'm Mohamed
 
-I'm an **AI Engineer / Data Analyst** with a strong background in **Machine Learning, Deep Learning, NLP, and Generative AI**.
+I'm an **AI Engineer / Data Analyst** with experience in **ML, DL, NLP & Generative AI**.  
 I enjoy building **end-to-end AI solutions**, fine-tuning **LLMs**, and turning data into **actionable insights**.
+
+---
+
+## 🌟 Startup Project
+
+I’m building a **smart fashion assistant** startup:  
+A platform that uses **AI chatbots, model fitting, and product search** to help customers find the perfect clothing easily.  
+<img src="https://giphy.com/gifs/ClearCOGS-ai-good-for-kJKci76DgE3dmqzKvH"/>
 
 ---
 
 ## 🧠 Core Skills
 
 ### 🔹 Programming & Data
-
-* Python
-* SQL
-* Excel
-* Power BI
+Python | SQL | Excel | Power BI
 
 ### 🔹 Machine Learning & AI
-
-* Supervised & Unsupervised Learning
-* Feature Engineering & Data Preprocessing
-* Model Evaluation & Optimization
+Supervised & Unsupervised Learning | Feature Engineering | Model Optimization
 
 ### 🔹 Deep Learning
-
-* Neural Networks
-* TensorFlow / PyTorch
-* Transfer Learning
+Neural Networks | TensorFlow / PyTorch | Transfer Learning
 
 ### 🔹 NLP & Generative AI
-
-* Text Classification & NER
-* Transformers (Hugging Face)
-* Fine-tuning LLMs (LoRA / QLoRA)
-* Prompt Engineering
-* RAG (Retrieval-Augmented Generation)
+Text Classification | Transformers | LoRA / QLoRA | RAG | Prompt Engineering
 
 ### 🔹 MLOps & Automation
-
-* Git & GitHub
-* n8n Automation
-* API Integration & Webhooks
-* Environment & Dependency Management
+Git/GitHub | n8n Automation | API Integration | Environment Management
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 Fine-tuning Gemma LLM using LoRA
+* **Fine-tuning Gemma LLM using LoRA**  
+  Custom author-style dataset | PEFT LoRA | BitsAndBytes & Accelerate | Evaluated with PPL
 
-* Fine-tuned **Gemma** on custom author-style dataset
-* Used **PEFT (LoRA)** for memory-efficient training
-* Optimized training with **bitsandbytes & Accelerate**
-* Evaluated model using **Perplexity (PPL)**
-
-### 🔹 Data Analysis Projects
-
-* **Pizza Store Analysis**: sales trends, KPIs, and insights
-* **Uber Trips Analysis**: demand patterns & peak-time analysis
-
----
----
-
----
-
-## 🚀 My Startup
-
-I'm building a **startup that enhances the shopping experience**.  
-It **recommends products, guides users via a smart chatbot, and leverages AI models for personalized fitting and suggestions**—making online shopping **smarter, faster, and more interactive**.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="60" alt="Startup AI"/>
-</p>
-
----
-## 📚 Currently Learning
-
-* Advanced LLM Fine-tuning
-* AI Agents
-* Cybersecurity fundamentals
-* English communication (C1 level goal)
+* **Data Analysis Projects**  
+  Pizza Store Analysis | Uber Trips Analysis
 
 ---
 
 ## 📊 GitHub Stats
 
+![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedNaeem12&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedNaeem12&layout=compact&theme=radical)
 
 ---
 
+
 ## 🤝 Let’s Connect
 
-* 💼 Open to roles in **AI Engineering, Data Analysis, NLP, and GenAI**
-* 🌍 Interested in international & remote opportunities
+I’m open to roles in **AI Engineering, Data Analysis, NLP, and Generative AI**, remote or international opportunities.  
 
 > *"Turning data into intelligence, and intelligence into impact."*
