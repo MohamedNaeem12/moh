@@ -1,6 +1,6 @@
 <!-- Header Image -->
 
-<img src="https://github.com/Mokkapps/mokkapps/blob/master/header.png" alt="GitHub README header" />
+
 
 <!-- Social Links -->
 
