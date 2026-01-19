@@ -1,5 +1,5 @@
 <!-- Header Image -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXE2eDJ3OHV3M3dqeDg0NGFna2NyMG5oMmp3emphM3FxaHdmZ3V6bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/i4MAH84pqe2m2aVojc/giphy.gif?raw=true" width="170%" alt="Welcome"/>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
 
 <!-- Social Links -->
 <p>
