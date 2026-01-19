@@ -71,7 +71,20 @@ I enjoy building **end-to-end AI solutions**, fine-tuning **LLMs**, and turning 
 * **Uber Trips Analysis**: demand patterns & peak-time analysis
 
 ---
+---
 
+---
+
+## 🚀 My Startup
+
+I'm building a **startup that enhances the shopping experience**.  
+It **recommends products, guides users via a smart chatbot, and leverages AI models for personalized fitting and suggestions**—making online shopping **smarter, faster, and more interactive**.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="60" alt="Startup AI"/>
+</p>
+
+---
 ## 📚 Currently Learning
 
 * Advanced LLM Fine-tuning
